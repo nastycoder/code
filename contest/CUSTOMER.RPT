@@ -1,0 +1,13 @@
+                         CUSTOMER LISTING
+
+
+    CUST          CUST              CREDIT       BALANCE
+     NO           NAME              RATING         DUE
+
+     101     JOHN HERBERT             VG          $   200
+     704     MARY BROWN               VG          $ 7,500
+     973     LISA DOUCETTE            EX          $12,000
+     235     JOHN ADAMS               VG          $ 2,000
+     109     HAROLD BIGGS             EX          $12,000
+
+                       TOTAL BALANCE DUE          $33,700
