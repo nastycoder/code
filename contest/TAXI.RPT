@@ -1,0 +1,14 @@
+                             A B C TAXI COMPANY
+
+
+VEHICLE ID     VEHICLE DESC   MILES TRAVELLED         GALLONS        AVERAGE
+
+ABC0000011     FORD                245                 10.50          23.33
+ABC0000012     FORD                179                  6.50          27.54
+ABC0000013     CHRYSLER            455                 15.79          28.82
+ABC0000015     PLYMOUTH            350                 11.10          31.53
+ABC0000016     CHEVROLET           475                 19.10          24.87
+ABC0000017     CHEVROLET         1,500                 28.84          52.01
+ABC0000020     ACURA               850                 32.12          26.46
+
+               TOTALS            4,054                123.95          32.71

@@ -1,0 +1,39 @@
+
+                             VALIDATION REPORT                           PAGE  1
+
+
+EMP NO            NAME                         SALARY       DEPARTMENT
+
+
+00001          ADAMSON                       $ 40,000          01
+
+00002                                        $ 50,000          02
+*ERROR*          NAME MISSING
+
+00003          CARTWELL                      $140,000          05
+*ERROR*          SALARY > $100,000
+
+00004          DORSEY                        $ 45,000          02
+
+000B5          HAMMOND                       50B00             04
+*ERROR*          EMPLOYEE NOT NUMERIC
+*ERROR*          SALARY NOT NUMERIC
+
+00006          NOLTE                         $ 45,000          04
+
+00007          REDFORD                       $148,000          03
+*ERROR*          SALARY > $100,000
+
+00008          JOHNKE                        $ 55,000          10
+*ERROR*          DEPT CODE INVALID
+
+00009          WHITE                         $ 59,000          01
+
+
+
+RECORDS PROCESSED        9
+
+TOTAL NOT NUMERIC        2
+TOTAL MISSING NAMES      1
+TOTAL INVALID SALARIES   2
+TOTAL INVALID DEPTS      1
